@@ -1,3 +1,4 @@
+# Moja prvá Python aplikácia
 def pozdrav(meno, jazyk="sk"):
     if jazyk == "sk":
         print(f"Ahoj {meno}!")
